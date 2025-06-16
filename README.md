@@ -1,4 +1,4 @@
-# Microsoft-Office-
+# Microsoft-Office
 
 YOU MUST RUN THE TEST FILE BEFORE RUNNING THE INSTALLER!!! 
 
